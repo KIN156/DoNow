@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kin156.github.io/ToDo-React-App/git",
+  "homepage": "https://github.com/KIN156/DoNow.git",
 
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
